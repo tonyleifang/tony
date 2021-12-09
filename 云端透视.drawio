@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T10:00:59.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="2BcisSiZLbFY36yr2gxE" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T10:02:13.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NeY8D0hR1OnoyBNaGggD" version="15.3.5" type="github">
   <diagram id="i3flGWlADwd0WerrgBt4" name="第 1 页">
     <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
           <mxGeometry x="260" y="385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-16" value="&lt;span&gt;s3&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="385" width="80" height="60" as="geometry" />
+          <mxGeometry x="470" y="385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="p8xZ4yX1uvpRLc3oljL4-17" target="p8xZ4yX1uvpRLc3oljL4-4">
           <mxGeometry relative="1" as="geometry" />
@@ -47,6 +47,12 @@
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-20" value="datalake" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="305" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8xZ4yX1uvpRLc3oljL4-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;endFill=0;" edge="1" parent="1" source="p8xZ4yX1uvpRLc3oljL4-24" target="p8xZ4yX1uvpRLc3oljL4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8xZ4yX1uvpRLc3oljL4-24" value="redmine" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
