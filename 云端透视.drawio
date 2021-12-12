@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T12:04:30.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="YiMvpF2YUY4d0u80nKQ8" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T12:26:05.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="K7QiwAzyvC9OHnGisNhc" version="15.9.4" type="github">
   <diagram id="i3flGWlADwd0WerrgBt4" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
           <mxGeometry x="686" y="373.25" width="90" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-4" value="EAM, Maximo" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="180" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="230" width="450" height="200" as="geometry" />
+          <mxGeometry x="180" y="300" width="450" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-14" value="&lt;span&gt;postgresql&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="360" width="130" height="60" as="geometry" />
@@ -40,10 +40,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-24" value="redmine" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="110" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8xZ4yX1uvpRLc3oljL4-26" value="ftp" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="150" width="100" height="30" as="geometry" />
+          <mxGeometry x="180" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RWV5Vjejhddx-yr4tk3-1" value="预警记录" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="300" width="80" height="55" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="470" y="365" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ex3qheTG9lMbZxmCwLnC-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="270" height="211" as="geometry" />
+          <mxGeometry x="40" y="470" width="270" height="211" as="geometry" />
         </mxCell>
         <mxCell id="ex3qheTG9lMbZxmCwLnC-57" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-7">
           <mxGeometry width="270" height="21" as="geometry" />
@@ -193,7 +193,7 @@
             <mxRectangle width="60" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex3qheTG9lMbZxmCwLnC-36" value="&lt;span&gt;2020/1/1&amp;nbsp; 02:00:00&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;strokeColor=#b85450;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-33">
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-36" value="&lt;span&gt;2020/3/1&amp;nbsp; 05:00:00&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;strokeColor=#b85450;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-33">
           <mxGeometry x="120" width="150" height="21" as="geometry">
             <mxRectangle width="150" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -211,7 +211,7 @@
             <mxRectangle width="60" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex3qheTG9lMbZxmCwLnC-41" value="&lt;span&gt;2020/1/1&amp;nbsp; 01:00:00&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;strokeColor=#b85450;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-38">
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-41" value="&lt;span&gt;2020/3/1&amp;nbsp; 01:00:00&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;strokeColor=#b85450;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-38">
           <mxGeometry x="120" width="150" height="21" as="geometry">
             <mxRectangle width="150" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -253,13 +253,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ex3qheTG9lMbZxmCwLnC-51" value="风机1&lt;br&gt;部件1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="770" width="660" height="60" as="geometry" />
+          <mxGeometry x="40" y="770" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ex3qheTG9lMbZxmCwLnC-52" value="&lt;span&gt;2020/1/1&amp;nbsp; 01:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="780" width="260" height="40" as="geometry" />
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="770" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ex3qheTG9lMbZxmCwLnC-65" value="&lt;span&gt;2020/3/1&amp;nbsp; 04:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="780" width="260" height="40" as="geometry" />
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-65" value="&lt;span&gt;2020/1/1&amp;nbsp; 01:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-67" value="&lt;span&gt;2020/2/1&amp;nbsp; 01:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="770" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-69" value="&lt;span&gt;2020/3/1&amp;nbsp; 04:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-70" value="&lt;span&gt;2050/1/1&amp;nbsp; 00:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-72" value="风机1&lt;br&gt;部件2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="830" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="830" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-77" value="&lt;span&gt;2020/3/1&amp;nbsp; 01:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="840" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-78" value="&lt;span&gt;2050/1/1&amp;nbsp; 00:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="840" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-80" value="风机2&lt;br&gt;部件1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="890" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="890" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-85" value="&lt;span&gt;2020/1/1&amp;nbsp; 01:00:00&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="900" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-86" value="2050/1/1&amp;nbsp; 00:00:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="900" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
