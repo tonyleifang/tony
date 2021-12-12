@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T13:41:25.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="jr5ioTfKhtCXp-Pwlpfn" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T13:50:57.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="OXRZ6mpeKNyE1iQ0LJ3R" version="15.9.4" type="github">
   <diagram id="i3flGWlADwd0WerrgBt4" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -329,6 +329,63 @@
         </mxCell>
         <mxCell id="ex3qheTG9lMbZxmCwLnC-92" value="可研数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-148" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="515.5" width="260" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-149" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-148">
+          <mxGeometry width="260" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-150" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-149">
+          <mxGeometry width="65" height="42" as="geometry">
+            <mxRectangle width="65" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-151" value="部件1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-149">
+          <mxGeometry x="65" width="98" height="42" as="geometry">
+            <mxRectangle width="98" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-152" value="部件2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-149">
+          <mxGeometry x="163" width="97" height="42" as="geometry">
+            <mxRectangle width="97" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-153" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-148">
+          <mxGeometry y="42" width="260" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-154" value="风机1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-153">
+          <mxGeometry width="65" height="41" as="geometry">
+            <mxRectangle width="65" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-155" value="故障" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;strokeColor=#6c8ebf;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-153">
+          <mxGeometry x="65" width="98" height="41" as="geometry">
+            <mxRectangle width="98" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-156" value="故障" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;strokeColor=#b85450;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-153">
+          <mxGeometry x="163" width="97" height="41" as="geometry">
+            <mxRectangle width="97" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-157" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-148">
+          <mxGeometry y="83" width="260" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-158" value="风机2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-157">
+          <mxGeometry width="65" height="42" as="geometry">
+            <mxRectangle width="65" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-159" value="故障" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;strokeColor=#82b366;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-157">
+          <mxGeometry x="65" width="98" height="42" as="geometry">
+            <mxRectangle width="98" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex3qheTG9lMbZxmCwLnC-160" value="正常" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;" vertex="1" parent="ex3qheTG9lMbZxmCwLnC-157">
+          <mxGeometry x="163" width="97" height="42" as="geometry">
+            <mxRectangle width="97" height="42" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
