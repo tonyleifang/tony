@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T02:45:36.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.4" etag="ezgRINOA_ecRIEVnF52N" type="github"><diagram id="qwiPBuBP2y7-i90Vo56-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-12T02:57:14.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="XUrz_3Q2aulfZXfk1lCH" version="15.9.4" type="github">
+  <diagram id="qwiPBuBP2y7-i90Vo56-" name="第 1 页">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qQHvoparxw8WBz52nhWu-1" value="Nginx Web UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-2" target="qQHvoparxw8WBz52nhWu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-2" value="透视系统后端服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-3" target="qQHvoparxw8WBz52nhWu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-3" value="报告文档生成引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-4" target="qQHvoparxw8WBz52nhWu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-4" value="GIS服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-6" target="qQHvoparxw8WBz52nhWu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-6" value="外挂数据卷" style="rounded=0;whiteSpace=wrap;html=1;align=center;sketch=0;glass=0;shadow=0;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="390" width="245" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-7" value="Postgresql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;shadow=0;glass=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-8" value="配置脚本及数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;glass=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="294" y="400" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-14" target="qQHvoparxw8WBz52nhWu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-14" value="场站地理数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;glass=0;sketch=0;size=0.3333333333333333;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="105" y="400" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
