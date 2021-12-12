@@ -1,29 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T04:15:16.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="vsFDY9AIS0gLl305kh6T" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T04:17:20.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="4zVdZjG52DdRbwCUMt6a" version="15.9.4" type="github">
   <diagram id="L_N83HYyD-l_K0WNBVSV" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ITESXwaG5BfeB1T2_7b--23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="300" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--1" value="格林" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="50" width="120" height="30" as="geometry" />
+          <mxGeometry x="294" y="85" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--2" value="仿真云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="50" width="120" height="30" as="geometry" />
+          <mxGeometry x="450" y="85" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--3" value="ActiveMq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="100" width="300" height="30" as="geometry" />
+          <mxGeometry x="280" y="120" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="300" height="80" as="geometry" />
+          <mxGeometry x="280" y="180" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--5" value="天河云&lt;br&gt;Enfast" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--7" value="外部任务接入服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--9" value="HPC&lt;br&gt;模型训练算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="460" height="160" as="geometry" />
