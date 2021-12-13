@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T08:39:07.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="c1gzOpoo5RmIAm1vzAwr" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T03:34:31.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="D5eWevyPkfYYC1k_xI5x" version="15.9.4" type="github">
   <diagram id="L_N83HYyD-l_K0WNBVSV" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,39 @@
         </mxCell>
         <mxCell id="ITESXwaG5BfeB1T2_7b--21" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="405" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITESXwaG5BfeB1T2_7b--27" target="ITESXwaG5BfeB1T2_7b--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--27" value="变量敏感性分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="ITESXwaG5BfeB1T2_7b--29" target="ITESXwaG5BfeB1T2_7b--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--29" value="风光一体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--30" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="ITESXwaG5BfeB1T2_7b--32" target="ITESXwaG5BfeB1T2_7b--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--31" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITESXwaG5BfeB1T2_7b--32" target="ITESXwaG5BfeB1T2_7b--33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--32" value="compute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="990" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--33" value="年度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1050" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--34" value="月度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1050" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--35" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ITESXwaG5BfeB1T2_7b--36" target="ITESXwaG5BfeB1T2_7b--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITESXwaG5BfeB1T2_7b--36" value="可研数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
