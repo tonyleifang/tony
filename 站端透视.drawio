@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T02:57:14.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="XUrz_3Q2aulfZXfk1lCH" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T03:34:17.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_Eix6Wc8y7ez8vrItKHH" version="15.9.4" type="github">
   <diagram id="qwiPBuBP2y7-i90Vo56-" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,39 @@
         </mxCell>
         <mxCell id="qQHvoparxw8WBz52nhWu-14" value="场站地理数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;glass=0;sketch=0;size=0.3333333333333333;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="105" y="400" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-17" target="qQHvoparxw8WBz52nhWu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-17" value="变量敏感性分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-19" target="qQHvoparxw8WBz52nhWu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-19" value="风光一体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-22" target="qQHvoparxw8WBz52nhWu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-22" target="qQHvoparxw8WBz52nhWu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-22" value="compute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="990" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-23" value="年度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1050" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-24" value="月度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1050" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qQHvoparxw8WBz52nhWu-26" target="qQHvoparxw8WBz52nhWu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qQHvoparxw8WBz52nhWu-26" value="可研数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
